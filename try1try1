@@ -1,0 +1,5 @@
+print('Введите дату:',end =' ')
+a=input()
+print('Введите задачу:', end=' ')
+b=input()
+print(a,b)
